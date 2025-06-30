@@ -10,5 +10,5 @@
     <div class="container">
         <div class="header">
             <h1>Control de Asistencias</h1>
-            <p>Sistema de Gestión de Asistencias - Auxiliares Emergentes I</p>
+            <p>Sistema de Gestión de Asistencias - Auxiliatura Emergentes I</p>
         </div>
